@@ -28,11 +28,26 @@
     font-family: Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     font-weight: 00;
     font-size: 60px;
-    margin-left: 350px;
+    text-align: center;
+    /* margin-left: 350px; */
     margin-top: 150px;
 
 
 }
+
+.paragraph {
+
+    align-items: center;
+    color: antiquewhite;
+    font-family: Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 00;
+    font-size: 20px;
+    /* margin-left: 300px; */
+    margin-top: 50px;
+    text-align: center;
+
+}
+
 
 .headPart {
     justify-content:space-between;
@@ -79,5 +94,25 @@ header{
     
     display: inline-block;
     padding: 0px 20px;
+}
+
+.appB {
+    
+    /* align-items: center; */
+    color:black;
+    background-color: antiquewhite;
+    border-radius: 10px;
+    margin-top: 60px;
+    align-items: center;
+    justify-content: center;
+    margin-left: 650px;
+    width: 120px;
+
+
+    
+}
+
+.appButton {
+
 }
 
